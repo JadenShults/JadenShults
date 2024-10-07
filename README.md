@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Analyst:</h2>
 
 - <b>Network Analysis Practice </b>
-  - [Incident Handler's Journal](https://github.com/JadenShults/Incident-Handler-s-Journal)
+  - [Incident Handler's Journal](https://github.com/JadenShults/Incident-Handler-s-Journal/blob/main/Incident%20handler's%20journal%20.pdf)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
