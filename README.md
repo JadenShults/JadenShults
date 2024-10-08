@@ -10,14 +10,9 @@
   - [File Permissions Exercise](https://github.com/JadenShults/linux/blob/main/File%20permissions%20in%20Linux.pdf) 
 - <b>SQL</b>
   - [Apply Filters to Queries](https://github.com/JadenShults/SQL/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
+  - [Algorithm Develepmont](https://github.com/JadenShults/Python/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf)
+- <b>Forensics</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
