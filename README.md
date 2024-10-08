@@ -14,7 +14,7 @@
   - [Apply Filters to Queries](https://github.com/JadenShults/SQL/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
 - <b>Python</b>
   - [Algorithm Develepmont](https://github.com/JadenShults/Python/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf)
-<h2> Certificates </h2
+<h2> Certificates </h2>
   - [Google Cybersecurity Certificate](https://coursera.org/share/a1ad64d8e26481cc5411cb8cb73f0c98)
 <h2> 🤳 Connect with me:</h2>
 
