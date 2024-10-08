@@ -15,7 +15,7 @@
 - <b>Python</b>
   - [Algorithm Develepmont](https://github.com/JadenShults/Python/blob/main/Algorithm%20for%20file%20updates%20in%20Python.pdf)
 <h2> Certificates </h2
-  - [Cybersecurity Certificate](https://www.credly.com/badges/5ce3d1cc-96e3-4064-b3c4-1dd7b53f44a7)
+  - <a href="https://www.credly.com/badges/5ce3d1cc-96e3-4064-b3c4-1dd7b53f44a7">Cybersecurity Certificate<a>
 <h2> 🤳 Connect with me:</h2>
 
 
