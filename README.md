@@ -6,8 +6,8 @@
   - [Incident Handler's Journal](https://github.com/JadenShults/Incident-Handler-s-Journal/blob/main/Incident%20handler's%20journal%20.pdf)
   - [Vulnerability Assessment report](https://github.com/JadenShults/Incident-Handler-s-Journal/blob/main/Vulnerability%20assessment%20report.pdf)
   - [Incident Report](https://github.com/JadenShults/Incident-Handler-s-Journal/blob/main/Cybersecurity%20incident%20report.pdf)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Linux</b>
+  - [File Permissions Exercise]([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/JadenShults/linux/blob/main/File%20permissions%20in%20Linux.pdf)) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
