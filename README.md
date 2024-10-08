@@ -8,8 +8,8 @@
   - [Incident Report](https://github.com/JadenShults/Incident-Handler-s-Journal/blob/main/Cybersecurity%20incident%20report.pdf)
 - <b>Linux</b>
   - [File Permissions Exercise](https://github.com/JadenShults/linux/blob/main/File%20permissions%20in%20Linux.pdf) 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>SQL</b>
+  - [Apply Filters to Queries](https://github.com/JadenShults/SQL/blob/main/Apply%20filters%20to%20SQL%20queries.pdf)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
